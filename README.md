@@ -22,11 +22,11 @@ project-root/
 │
 ├─ main.ipynb              # Core Jupyter Notebook with all code, analysis, and visualizations
 ├─ datasets/               # Dataset files
-│  ├─ hour.csv            # Hourly bike share data
-│  └─ day.csv             # Daily bike share data (optional)
+│  ├─ hour.csv             # Hourly bike share data
+│  └─ day.csv              # Daily bike share data (optional)
 ├─ instructions/           # Assignment PDF and reference materials
-│  ├─ A8 Ensembles.pdf    # Assignment instructions
-│  └─ main.ipynb          # Reference notebook (if available)
+│  ├─ A8 Ensembles.pdf     # Assignment instructions
+│  └─ main.ipynb           # Reference notebook (if available)
 ├─ pyproject.toml          # Project dependencies
 ├─ uv.lock                 # Locked dependency versions (for uv sync)
 └─ README.md               # This project summary
